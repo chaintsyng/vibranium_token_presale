@@ -7,3 +7,6 @@
 [submodule "ico-contracts"]
 	path = ico-contracts
 	url = git@github.com:chaintsyng/ico-contracts.git
+[submodule "presale-token"]
+	path = presale-token
+	url = git@github.com:chaintsyng/presale-token.git
