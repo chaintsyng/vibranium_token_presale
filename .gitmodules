@@ -1,3 +1,6 @@
 [submodule "browser-solidity"]
 	path = browser-solidity
 	url = git@github.com:ethereum/browser-solidity.git
+[submodule "etherwallet"]
+	path = etherwallet
+	url = git@github.com:kvhnuke/etherwallet.git
