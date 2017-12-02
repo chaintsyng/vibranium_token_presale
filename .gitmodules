@@ -4,3 +4,6 @@
 [submodule "etherwallet"]
 	path = etherwallet
 	url = git@github.com:kvhnuke/etherwallet.git
+[submodule "ico-contracts"]
+	path = ico-contracts
+	url = git@github.com:chaintsyng/ico-contracts.git
